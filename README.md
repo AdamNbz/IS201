@@ -28,7 +28,7 @@
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * ThS. **Đỗ Thị Minh Phụng** - *phungdtm@uit.edu.vn*
-* KS. **Lê Võ Đình Kha** - *khalvd@uit.edu.vn
+* KS. **Lê Võ Đình Kha** - *khalvd@uit.edu.vn*
 
 
 ## THÀNH VIÊN NHÓM
